@@ -1,0 +1,16 @@
+# Python virtual environment
+Assignment_01/tfenv/
+Assignment_01/ADS_LAB_Ass_01.pdf
+Assignment_01/archive.zip
+Assignment_01/house_price_ann_model.keras
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
